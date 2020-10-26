@@ -5,8 +5,10 @@
     <div class="heading-04 mb-5">
         <h2><b>Who we are?</b></h2>
     </div>
-    <p class="about-text mb-5">Mandhoo diving is located on the beautiful island Mandhoo, South Ari Atoll Maldives. South Ari Atoll is famous for some of the best diving spots in the Maldives and "home" 
-        to the gentle giant, the Whale shark.</p>
+    <p class="about-text mb-5">Pressure Tech Maldives Pvt Ltd was found in 2016 in a tiny office in Capital City Male’ and has grown to become a leading partner for Complete Scuba Diving Solutions and aftersales service for both High pressure & Low-Pressure machines equipment
+with a customer base of 80 Luxury resorts, 50 Liveaboards (Safari boats) over 50 Local Guesthouse dive operations and a vast majority of fishing vessels in the Maldives
+Pressure Tech Maldives is also the Exclusive distributor for Coltri compressors in the Maldives.
+</p>
 
     <div class="heading-05 mt-5">
         <h2>Our location</h2>
