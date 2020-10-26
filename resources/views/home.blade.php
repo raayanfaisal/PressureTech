@@ -156,6 +156,14 @@ Pressure Tech Maldives is also the Exclusive distributor for Coltri compressors 
             <li><i class="fa fa-phone mt-4 fa-2x"></i>
                 <p class="ctn">:(+960) 3325365</p>
             </li>
+            
+            <li><i class="fa fa-phone mt-4 fa-2x"></i>
+                <p class="ctn">:(+960) 7777834</p>
+            </li>
+            
+            <li><i class="fa fa-phone mt-4 fa-2x"></i>
+                <p class="ctn">:(+960) 7783153</p>
+            </li>
 
             <li><i class="fa fa-envelope mt-4 fa-2x"></i>
                 <p class="mail">info@pressuretech.mv</p>
