@@ -24,6 +24,10 @@
         * {
             text-decoration: none;
         }
+        
+        title {
+            color: #006994;
+        }
 
         html {
             scroll-behavior: smooth;
