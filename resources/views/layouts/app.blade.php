@@ -314,7 +314,7 @@ ul#menu1 li {
                         <li class="m-3"><a href="/">Home</li>
                         <li class="m-3"><a href="/aboutus">About</li>
                         <li class="m-3"><a href="/products">Products</li>
-                        <li class="m-3"><a href="#ctn">Contact</a></li>
+                        <li class="m-3"><a href="#ctn">contact</a></li>
                     </ul>
                 </div>
             </div>
