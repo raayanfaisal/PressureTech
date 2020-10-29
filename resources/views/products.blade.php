@@ -94,6 +94,7 @@
 
     <a href="/smart"><img class="img-fluid z-depth-1" src="/images/Coltri MCH 8-11-13-16 SMART.png" alt="video"
         ></a>
+        <h5>COLTRI MCH 8-11-13-16 SMART</h5>
 
   </div>
   <!-- Grid column -->
@@ -142,7 +143,7 @@
 
     <a href="/aircompressor"><img class="img-fluid z-depth-1" src="/images/xl-270420-081150-mch-13-16-18-et-compact-evo-front01-lr.jpg" alt="video"
         ></a>
-
+        <h5>High pressure breathing air compressors</h5>
   </div>
   <!-- Grid column -->
 
@@ -196,7 +197,7 @@
 
     <a href="/coltri"><img class="img-fluid z-depth-1" src="/images/xl-280420-175754-001-prime-line-ergo-tps-13-16-21-23-front01.jpg" alt="video"
         data-toggle="modal" data-target="#modal2"></a>
-
+        <h5>Coltri MCH 13-16-21-23 Mark3</h5>
   </div>
   <!-- Grid column -->
 
