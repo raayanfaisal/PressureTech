@@ -91,8 +91,8 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-2.jpg" alt="video"
-        data-toggle="modal" data-target="#modal6"></a>
+    <a href="/mch"><img class="img-fluid z-depth-1" src="/images/Coltri MCH 8-11-13-16 SMART.png" alt="video"
+        ></a>
 
   </div>
   <!-- Grid column -->
