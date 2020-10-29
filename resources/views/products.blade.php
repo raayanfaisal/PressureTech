@@ -83,6 +83,20 @@
             </div>
         </div>
     </div>
+    
+            <div class="col-md-4 col-sm-6">
+            <div class="product-grid2">
+                <div class="product-image2"> <a href="#"> <img class="pic-1" src="/images/compressor-coltri.png"> <img class="pic-2" src="/images/compressor-coltri.png"> </a>
+                    <ul class="social">
+                        <li><a href="#" data-tip="Quick View"><i class="fa fa-eye"></i></a></li>
+                        <li><a href="#" data-tip="Add to Cart"><i class="fa fa-shopping-cart"></i></a></li>
+                    </ul>
+                </div>
+                <div class="product-content">
+                 <a href="/compressor">COLTRI COMPRESSOR MCH 13/ MCH 16 SUPER SILENT EVO</a>
+                </div>
+            </div>
+        </div>
 <!-- Modal -->
 <div id="three" class="modal fade" role="dialog">
   <div class="modal-dialog">
