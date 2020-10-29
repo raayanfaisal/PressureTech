@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-<img src="/images/xl-280420-175754-001-prime-line-ergo-tps-13-16-21-23-front01.jpg" alt="aircompressir" width="300px" height="200px">
+<img src="/images/csm_pe-te-100_f5b42f50d4.jpg" alt="aircompressir" width="300px" height="200px">
     <div class="heading-04">
         <h2><b>Bauer PE-TE/PE-TB, 200-300l/min
 </b></h2>
