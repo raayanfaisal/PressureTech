@@ -91,7 +91,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/mark3"><img class="img-fluid z-depth-1" src="/images/Coltri MCH 8-11-13-16 SMART.png" alt="video"
+    <a href="/smart"><img class="img-fluid z-depth-1" src="/images/Coltri MCH 8-11-13-16 SMART.png" alt="video"
         ></a>
 
   </div>
