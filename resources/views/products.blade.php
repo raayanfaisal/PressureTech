@@ -293,8 +293,7 @@
 
     <a href="/Bauer"><img class="img-fluid z-depth-1" src="/images/csm_pe-te-100_f5b42f50d4.jpg" alt="video"
        ></a>
-        <h5>Bauer PE-TE/PE-TB, 200-300l/min
-</h5>
+
   </div>
   <!-- Grid column -->
 
