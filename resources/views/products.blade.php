@@ -19,22 +19,18 @@
           <div class="modal-body mb-0 p-0">
 
             <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/A3PDXmYoF5U"
-                allowfullscreen></iframe>
+]               <img src="https://github.com/raayanfaisal/mandhoo-diving-portfolio/blob/master/public/images/COLTRI%20COMPRESSOR%20MCH%2013%20MCH%2016%20SUPER%20SILENT%20EVO.png" alt="pic-01">
             </div>
 
           </div>
 
           <!--Footer-->
           <div class="modal-footer justify-content-center">
-            <span class="mr-4">Spread the word!</span>
-            <a type="button" class="btn-floating btn-sm btn-fb"><i class="fab fa-facebook-f"></i></a>
-            <!--Twitter-->
-            <a type="button" class="btn-floating btn-sm btn-tw"><i class="fab fa-twitter"></i></a>
-            <!--Google +-->
-            <a type="button" class="btn-floating btn-sm btn-gplus"><i class="fab fa-google-plus-g"></i></a>
-            <!--Linkedin-->
-            <a type="button" class="btn-floating btn-sm btn-ins"><i class="fab fa-linkedin-in"></i></a>
+             <p>The Super Silent Evo series stands out for its high degree of silence. 
+             This series was developed by Coltri to meet certain requirements, 
+             such as easy to use, sound insulation and control systems that enable effective monitoring of the compressor. 
+             The standard equipment includes two filling connections (from 232 to 330 bar), pressure gauge per stage, oil level monitoring, 
+             internal temperature monitoring, direction of rotation monitoring, three-phase electric motor, automatic condensation and auto-stop. </p>
 
             <button type="button" class="btn btn-outline-primary btn-rounded btn-md ml-4" data-dismiss="modal">Close</button>
 
