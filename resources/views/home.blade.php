@@ -129,7 +129,7 @@
                 <p class="mail">info@pressuretech.mv</p>
             </li>
             
-            <li><a href="https://www.instagram.com/pressuretechmv/"><i class="fa fa-instagram mr-4 mt-4 fa-2x"></i></a><i class="fa fa-facebook-f fa-2x"></i>
+            <li><a href="https://www.instagram.com/pressuretechmv/"><i class="fa fa-instagram mr-4 mt-4 fa-2x"></i></a><a href="https://www.facebook.com/pressuretechmv/"><i class="fa fa-facebook-f fa-2x"></i></a>
             </li>
         </ul>
     </div>
