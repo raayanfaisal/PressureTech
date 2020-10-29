@@ -193,7 +193,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-4.jpg" alt="video"
+    <a><img class="img-fluid z-depth-1" src="/images/xl-280420-175754-001-prime-line-ergo-tps-13-16-21-23-front01.jpg" alt="video"
         data-toggle="modal" data-target="#modal2"></a>
 
   </div>
