@@ -241,8 +241,8 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="/images/mch-13-16-18-21-23-et-mark3-front01-min.jpg" alt="video"
-        data-toggle="modal" data-target="#modal5"></a>
+    <a href="/mark3"><img class="img-fluid z-depth-1" src="/images/mch-13-16-18-21-23-et-mark3-front01-min.jpg" alt="video"
+        ></a>
 
   </div>
   <!-- Grid column -->
