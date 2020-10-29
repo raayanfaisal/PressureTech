@@ -38,14 +38,14 @@
 </div>
         <div class="col-md-4 col-sm-6">
             <div class="product-grid2">
-                <div class="product-image2"> <a href="#"> <img class="pic-1" src="/images/cylinders-diving.jpg"> <img class="pic-2" src="/images/cylinders-diving.jpg"> </a>
+                <div class="product-image2"> <a href="#"> <img class="pic-1" src="/images/Coltri MCH 8-11-13-16 SMART.png"> <img class="pic-2" src="/images/Coltri MCH 8-11-13-16 SMART.png"> </a>
                     <ul class="social">
                         <li><a href="#" data-tip="Quick View"><i class="fa fa-eye"></i></a></li>
                         <li><a href="#" data-tip="Add to Cart"><i class="fa fa-shopping-cart"></i></a></li>
                     </ul>
                 </div>
                 <div class="product-content">
-                <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#two">See details.</button>
+                    <a href="/mch">Coltri MCH 8-11-13-16 SMART</a>
                 </div>
             </div>
         </div>
