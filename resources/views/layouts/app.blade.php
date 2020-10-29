@@ -51,6 +51,7 @@
 
         p {
             font-family: 'Roboto', sans-serif;
+            font-size: 15px;
         }
         .question-01 {
             color: lightblue;
