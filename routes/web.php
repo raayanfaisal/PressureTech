@@ -57,3 +57,7 @@ Route::get('/gener', function () {
     return view('pete');
 })
 
+Auth::routes();
+
+ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
