@@ -6,14 +6,13 @@
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="/images/compressor-coltri.png" alt="First slide" width="100%" height="auto">
+      <img class="d-block w-100" src="/images/img-01.jpg" alt="First slide" width="100%" height="auto">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/images/Dive gear.PNG
-" alt="Second slide" width="100%" height="auto">
+      <img class="d-block w-100" src="/images/img-02.jpg" alt="Second slide" width="100%" height="auto">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/images/Diving cylinders.jpg" alt="Third slide" width="100%" height="auto">
+      <img class="d-block w-100" src="/images/img-03.jpg" alt="Third slide" width="100%" height="auto">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -30,15 +29,10 @@
 <section>
     <div class="container">
     <div class="heading-01">
-        <h2 class="text-center m-5"><b>WHO WE ARE<span class="question-01">?</b><span></h2>    
+        <h2 class="text-center m-5"><b>WHO ARE WE <span class="question-01">?</b><span></h2>    
     </div>
-        <p class="main-text">Pressure Tech Maldives Pvt Ltd was found in 2016 in a tiny office in Capital City Male’ and has
-grown to become a leading partner for Complete Scuba Diving Solutions and aftersales
-service for both High pressure &amp; Low-Pressure machines equipment with a customer base of
-80 Luxury resorts, 50 Liveaboards (Safari boats) over 50 Local Guesthouse dive operations and
-a vast majority of fishing vessels in the Maldives Pressure Tech Maldives is also the distributor
-for Coltri Sub Compressors in the Maldives.
-</p>
+        <p class="main-text">Mandhoo diving is located on the beautiful island Mandhoo, South Ari Atoll Maldives. South Ari Atoll is famous for some of the best diving spots in the Maldives and "home"
+         to the gentle giant, the Whale shark.</p>
     </div>
 </section>
 <section class="products">
@@ -158,19 +152,11 @@ for Coltri Sub Compressors in the Maldives.
         <ul class="list-unstyled mb-0">
 
             <li><i class="fa fa-phone mt-4 fa-2x"></i>
-                <p class="ctn">:(+960) 3325365</p>
-            </li>
-            
-            <li><i class="fa fa-phone mt-4 fa-2x"></i>
-                <p class="ctn">:(+960) 7777834</p>
-            </li>
-            
-            <li><i class="fa fa-phone mt-4 fa-2x"></i>
-                <p class="ctn">:(+960) 7783153</p>
+                <p class="ctn">+960 779-5071</p>
             </li>
 
             <li><i class="fa fa-envelope mt-4 fa-2x"></i>
-                <p class="mail">info@pressuretech.mv</p>
+                <p class="mail">mandhoolive@gmail.com</p>
             </li>
         </ul>
     </div>
