@@ -245,7 +245,7 @@
 
     <a href="/mark3"><img class="img-fluid z-depth-1" src="/images/mch-13-16-18-21-23-et-mark3-front01-min.jpg" alt="video"
         ></a>
-
+        <h5>Bauer PE100, 100l/min</h5>
   </div>
   <!-- Grid column -->
 
@@ -293,7 +293,8 @@
 
     <a href="/Bauer"><img class="img-fluid z-depth-1" src="/images/csm_pe-te-100_f5b42f50d4.jpg" alt="video"
        ></a>
-
+        <h5>Bauer PE-TE/PE-TB, 200-300l/min
+</h5>
   </div>
   <!-- Grid column -->
 
