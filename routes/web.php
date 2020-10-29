@@ -37,6 +37,10 @@ Route::get('/compressor', function () {
     return view('compressor');
 });
 
+Route::get('/aircompressor', function () {
+    return view('aircomp');
+});
+
 
 Auth::routes();
 
