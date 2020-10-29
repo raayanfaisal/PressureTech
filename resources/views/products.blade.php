@@ -342,8 +342,8 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="/images/unnamed.jpg" alt="video"
-        data-toggle="modal" data-target="#modal2"></a>
+    <a href="/generator"><img class="img-fluid z-depth-1" src="/images/unnamed.jpg" alt="video"
+       ></a>
 
   </div>
   <!-- Grid column -->
