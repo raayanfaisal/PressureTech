@@ -52,6 +52,10 @@ Route::get('/coltri', function () {
 Route::get('/Bauer', function () {
     return view('tepe');
 });
+
+Route::get('/gener', function () {
+    return view('pete');
+})
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
