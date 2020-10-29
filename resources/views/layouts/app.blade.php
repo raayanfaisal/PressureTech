@@ -296,6 +296,8 @@ h3.h3 {
 ul#menu1 li {
     display: inline;
 }
+
+
     </style>
 </head>
 <body>
