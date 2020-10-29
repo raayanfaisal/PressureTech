@@ -12,7 +12,7 @@
                     </ul>
                 </div>
                 <div class="product-content">
-                <h2>COLTRI COMPRESSOR MCH 13/ MCH 16 SUPER SILENT EVO</h2>
+                 <a href="/compressor">COLTRI COMPRESSOR MCH 13/ MCH 16 SUPER SILENT EVO</a>
                 </div>
             </div>
         </div>
