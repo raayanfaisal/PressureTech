@@ -41,6 +41,10 @@ Route::get('/compressor', function () {
     return view('compressor');
 });
 
+Route::get('/smart', function () {
+    return view('smart');
+});
+
 Route::get('/aircompressor', function () {
     return view('aircomp');
 });
