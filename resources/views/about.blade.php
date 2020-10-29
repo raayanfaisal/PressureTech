@@ -3,7 +3,7 @@
 @section('content')
 <div class="container">
     <div class="heading-04 mb-5">
-        <h2><b>Who we are?</b></h2>
+        <h2><b>PRESSURETECH MALDIVES</b></h2>
     </div>
     <p class="about-text mb-5">Pressure Tech Maldives Pvt Ltd was found in 2016 in a tiny office in Capital City Male’ and has grown to become a leading partner for Complete Scuba Diving Solutions and aftersales service for both High pressure & Low-Pressure machines equipment
 with a customer base of 80 Luxury resorts, 50 Liveaboards (Safari boats) over 50 Local Guesthouse dive operations and a vast majority of fishing vessels in the Maldives
