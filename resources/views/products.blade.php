@@ -19,7 +19,7 @@
           <div class="modal-body mb-0 p-0">
 
             <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
-]               <img src="https://github.com/raayanfaisal/mandhoo-diving-portfolio/blob/master/public/images/COLTRI%20COMPRESSOR%20MCH%2013%20MCH%2016%20SUPER%20SILENT%20EVO.png" alt="pic-01">
+]               <img src="/images/COLTRI COMPRESSOR MCH 13 MCH 16 SUPER SILENT EVO.png" alt="pic-01">
             </div>
 
           </div>
@@ -43,7 +43,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="https://github.com/raayanfaisal/mandhoo-diving-portfolio/blob/master/public/images/COLTRI%20COMPRESSOR%20MCH%2013%20MCH%2016%20SUPER%20SILENT%20EVO.png" alt="video"
+    <a><img class="img-fluid z-depth-1" src="/images/COLTRI COMPRESSOR MCH 13 MCH 16 SUPER SILENT EVO.png" alt="video"
         data-toggle="modal" data-target="#modal1"></a>
 
   </div>
