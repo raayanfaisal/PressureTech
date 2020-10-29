@@ -43,7 +43,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-1.jpg" alt="video"
+    <a><img class="img-fluid z-depth-1" src="https://github.com/raayanfaisal/mandhoo-diving-portfolio/blob/master/public/images/COLTRI%20COMPRESSOR%20MCH%2013%20MCH%2016%20SUPER%20SILENT%20EVO.png" alt="video"
         data-toggle="modal" data-target="#modal1"></a>
 
   </div>
