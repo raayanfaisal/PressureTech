@@ -38,15 +38,15 @@
             background-color: white;
         }
         .main-text  {
-            font-size: 25px;
+            font-size: 15px;
         }
         
         .ctn {
-            font-size: 20px;
+            font-size: 15px;
         }
 
         .mail {
-            font-size: 20px;
+            font-size: 15px;
         }
 
         p {
