@@ -289,8 +289,8 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="/images/csm_pe-te-100_f5b42f50d4.jpg" alt="video"
-        data-toggle="modal" data-target="#modal3"></a>
+    <a href="/Bauer"><img class="img-fluid z-depth-1" src="/images/csm_pe-te-100_f5b42f50d4.jpg" alt="video"
+       ></a>
 
   </div>
   <!-- Grid column -->
