@@ -139,7 +139,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-3.jpg" alt="video"
+    <a><img class="img-fluid z-depth-1" src="/images/xl-270420-081150-mch-13-16-18-et-compact-evo-front01-lr.jpg" alt="video"
         data-toggle="modal" data-target="#modal4"></a>
 
   </div>
