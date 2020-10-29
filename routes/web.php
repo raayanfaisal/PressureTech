@@ -55,7 +55,7 @@ Route::get('/Bauer', function () {
 
 Route::get('/gener', function () {
     return view('pete');
-})
+});
 
 Auth::routes();
 
