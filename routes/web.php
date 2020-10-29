@@ -21,6 +21,10 @@ Route::get('/products', function () {
     return view('products');
 });
 
+Route::get('/mch', function () {
+    return view('mch');
+});
+
 Route::get('/aboutus', function () {
     return view('about');
 });
