@@ -29,6 +29,10 @@ Route::get('/aboutus', function () {
     return view('about');
 });
 
+Route::get('/mark3', function () {
+    return view('mark3');
+});
+
 Route::get('/services', function () {
     return view('services');
 });
