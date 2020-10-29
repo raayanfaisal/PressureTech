@@ -29,6 +29,11 @@ Route::get('/services', function () {
     return view('services');
 });
 
+Route::get('/compressor', function () {
+    return view('compressor');
+});
+
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
