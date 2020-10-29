@@ -37,42 +37,6 @@
         Maldives Pressure Tech Maldives is also the distributor for Coltri Sub Compressors in the Maldives.</p>
     </div>
 </section>
-<section class="products">
-    <div class="heading-02 text-center">
-        <h2><b>PRODUCTS</b></h2>
-    </div>
-
-    <div class="container">
-    <div class="card-group">
-    <div class="card m-5" style="width: 18rem;">
-        <img class="card-img-top" src="/images/01.jpg" alt="Card image cap">
-        <div class="card-body">
-            <h5 class="card-title">Products 1</h5>
-            <p class="card-text">a Quick summury of the product on showcase.</p>
-            <a href="#" class="btn btn-primary">View more</a>
-        </div>
-        </div>
-
-        <div class="card m-5" style="width: 18rem;">
-        <img class="card-img-top" src="/images/02.jpg" alt="Card image cap">
-        <div class="card-body">
-            <h5 class="card-title">Products 2</h5>
-            <p class="card-text">a Quick summury of the product on showcase.</p>
-            <a href="#" class="btn btn-primary">View more</a>
-        </div>
-        </div>
-
-        <div class="card m-5" style="width: 18rem;">
-        <img class="card-img-top" src="/images/03.jpg" alt="Card image cap">
-        <div class="card-body">
-            <h5 class="card-title">Products 3</h5>
-            <p class="card-text">a Quick summury of the product on showcase.</p>
-            <a href="#" class="btn btn-primary">View more</a>
-        </div>
-        </div>
-    </div>
-    </div>
-</section>
 <section id="ctn" class="mb-2">
 <div class="container">
     <!--Section: Contact v.2-->
