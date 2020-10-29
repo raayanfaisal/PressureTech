@@ -29,7 +29,7 @@
 <section>
     <div class="container">
     <div class="heading-01">
-        <h2 class="text-center m-5"><b><span class="question-01"></b><span></h2>    
+        <h2 class="text-center"><b><span class="question-01"></b><span></h2>    
     </div>
         <p class="main-text">Pressure Tech Maldives Pvt Ltd was found in 2016 in a tiny office in Capital City Male’ 
         and has grown to become a leading partner for Complete Scuba Diving Solutions and aftersales service for both High pressure & Low-Pressure machines equipment 
