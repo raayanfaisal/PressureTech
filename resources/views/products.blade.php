@@ -241,7 +241,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-5.jpg" alt="video"
+    <a><img class="img-fluid z-depth-1" src="/images/mch-13-16-18-21-23-et-mark3-front01-min.jpg" alt="video"
         data-toggle="modal" data-target="#modal5"></a>
 
   </div>
@@ -289,7 +289,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-6.jpg" alt="video"
+    <a><img class="img-fluid z-depth-1" src="/images/csm_pe-te-100_f5b42f50d4.jpg" alt="video"
         data-toggle="modal" data-target="#modal3"></a>
 
   </div>
@@ -342,7 +342,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-4.jpg" alt="video"
+    <a><img class="img-fluid z-depth-1" src="/images/unnamed.jpg" alt="video"
         data-toggle="modal" data-target="#modal2"></a>
 
   </div>
@@ -390,7 +390,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-5.jpg" alt="video"
+    <a><img class="img-fluid z-depth-1" src="/images/Diving cylinders.jpg" alt="video"
         data-toggle="modal" data-target="#modal5"></a>
 
   </div>
@@ -438,7 +438,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="https://mdbootstrap.com/img/screens/yt/screen-video-6.jpg" alt="video"
+    <a><img class="img-fluid z-depth-1" src="/images/Oxygen Kits.jpg" alt="video"
         data-toggle="modal" data-target="#modal3"></a>
 
   </div>
