@@ -390,8 +390,8 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="/images/Diving cylinders.jpg" alt="video"
-        data-toggle="modal" data-target="#modal5"></a>
+    <a href="/cylinder"><img class="img-fluid z-depth-1" src="/images/Diving cylinders.jpg" alt="video"
+        ></a>
 
   </div>
   <!-- Grid column -->
