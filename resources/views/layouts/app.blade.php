@@ -77,7 +77,7 @@
         }
 
         footer {
-            background-color: lightgreen;
+            background-color: #066994;
         }
 
         a{
