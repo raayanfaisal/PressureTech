@@ -128,6 +128,9 @@
             <li><i class="fa fa-envelope mt-4 fa-2x"></i>
                 <p class="mail">info@pressuretech.mv</p>
             </li>
+            
+            <li><i class="fa fa-instagram mt-4 fa-2x"></i>
+            </li>
         </ul>
     </div>
     <!--Grid column-->
