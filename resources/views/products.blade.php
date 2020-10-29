@@ -12,7 +12,7 @@
                     </ul>
                 </div>
                 <div class="product-content">
-                <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#one">See details.</button>
+                <a href="/compressor" class="btn-btn-primary>see more</a>
                 </div>
             </div>
         </div>
