@@ -60,6 +60,7 @@
         .navbar-brand {
             font-family: 'Roboto', sans-serif;
             font-weight: 700;
+            color: #006994;
         }
         
         .card {
