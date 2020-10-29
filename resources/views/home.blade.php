@@ -73,7 +73,7 @@
     </div>
     </div>
 </section>
-<section id="ctn" class="mb-5">
+<section id="ctn" class="mb-2">
 <div class="container">
     <!--Section: Contact v.2-->
 <section class="mb-4">
