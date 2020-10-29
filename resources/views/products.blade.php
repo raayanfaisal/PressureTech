@@ -438,8 +438,8 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="/images/Oxygen Kits.jpg" alt="video"
-        data-toggle="modal" data-target="#modal3"></a>
+    <a href="/images/gear"><img class="img-fluid z-depth-1" src="/images/Oxygen Kits.jpg" alt="video"
+        ></a>
 
   </div>
   <!-- Grid column -->
