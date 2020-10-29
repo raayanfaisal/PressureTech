@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-<img src="/images/xl-270420-081150-mch-13-16-18-et-compact-evo-front01-lr.jpg" alt="aircompressir" width="300px" height="200px">
+<img src="/images/xl-280420-175754-001-prime-line-ergo-tps-13-16-21-23-front01.jpg" alt="aircompressir" width="300px" height="200px">
     <div class="heading-04">
         <h2><b>Coltri ERGO 13-16-21-23 TPS
 </b></h2>
