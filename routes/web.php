@@ -41,6 +41,10 @@ Route::get('/aircompressor', function () {
     return view('aircomp');
 });
 
+Route::get('/coltri', function () {
+    return view('coltri');
+});
+
 
 Auth::routes();
 
