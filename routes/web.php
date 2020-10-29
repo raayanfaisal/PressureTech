@@ -57,6 +57,10 @@ Route::get('/Bauer', function () {
     return view('tepe');
 });
 
+Route::get('/gear', function () {
+    return view('gear');
+});
+
 Route::get('/cylinder', function () {
     return view('cylinder');
 });
