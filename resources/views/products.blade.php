@@ -342,7 +342,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/generator"><img class="img-fluid z-depth-1" src="/images/unnamed.jpg" alt="video"
+    <a href="/gener"><img class="img-fluid z-depth-1" src="/images/unnamed.jpg" alt="video"
        ></a>
 
   </div>
