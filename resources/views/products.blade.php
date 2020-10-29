@@ -43,8 +43,8 @@
     </div>
     <!--Modal: Name-->
 
-    <a><img class="img-fluid z-depth-1" src="/images/COLTRI COMPRESSOR MCH 13 MCH 16 SUPER SILENT EVO.png" alt="video"
-        data-toggle="modal" data-target="#modal1"></a>
+    <a href="/compressor"><img class="img-fluid z-depth-1" src="/images/COLTRI COMPRESSOR MCH 13 MCH 16 SUPER SILENT EVO.png" alt="video"
+        ></a>
 
   </div>
   <!-- Grid column -->
