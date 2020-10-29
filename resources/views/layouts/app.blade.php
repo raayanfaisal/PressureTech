@@ -345,7 +345,7 @@ ul#menu1 li {
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ml-auto">
                         <li class="m-3"><a href="/">Home</li>
-                        <li class="m-3"><a href="/aboutus">About</li>
+                        <li class="m-3"><a href="/services">Services</li>
                         <li class="m-3"><a href="/products">Products</li>
                         <li class="m-3"><a href="#ctn">contact</a></li>
                     </ul>
