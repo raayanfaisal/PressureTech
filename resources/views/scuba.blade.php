@@ -2,10 +2,10 @@
 
 @section('content')
 <div class="container">
-<img src="/images/divegear.png" alt="aircompressir" width="300px" height="400px">
+<img src="/images/divegear.png" alt="aircompressir" width="300px" height="auto">
     <div class="heading-04">
-        <h2><b>Scuba Gear Packages
-</b></h2>
+        <h4><b>Scuba Gear Packages
+</b></h4>
         <p>Frame: We supply branded BCD, Regulator set and other Accessories with manufacturer warranty</p>
         <img src="" alt="" >
     </div>
