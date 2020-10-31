@@ -2,10 +2,10 @@
 
 @section('content')
 <div class="container">
-<img src="/images/xl-280420-175754-001-prime-line-ergo-tps-13-16-21-23-front01.jpg" alt="aircompressir" width="300px" height="400px">
+<img src="/images/xl-280420-175754-001-prime-line-ergo-tps-13-16-21-23-front01.jpg" alt="aircompressir" width="300px" height="auto">
     <div class="heading-04">
-        <h2><b>Coltri ERGO 13-16-21-23 TPS
-</b></h2>
+        <h4><b>Coltri ERGO 13-16-21-23 TPS
+</b></h4>
         <p>Frame: Mark 3 TPS - Line: Prime
 The MARK 3 series is a series of uncompromised breathable air 
 compressors for intensive use in warm, poorly ventilated or tropical environments. 
