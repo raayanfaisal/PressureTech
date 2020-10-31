@@ -2,10 +2,10 @@
 
 @section('content')
 <div class="container">
-<img src="/images/xl-270420-081150-mch-13-16-18-et-compact-evo-front01-lr.jpg" alt="aircompressir" width="300px" height="400px">
+<img src="/images/xl-270420-081150-mch-13-16-18-et-compact-evo-front01-lr.jpg" alt="aircompressir" width="300px" height="auto">
     <div class="heading-04">
-        <h2><b>High pressure breathing air compressors
-Coltri Compact Evo</b></h2>
+        <h4><b>High pressure breathing air compressors
+Coltri Compact Evo</b></h4>
         <p>The COMPACT EVO model has been designed with control systems that allow the effective monitoring of operations. 
         The models of this line are equipped with two connections for high pressure tubes (from 232 to 330 bar), interstage pressure controls, 
         oil level, internal cab temperature and rotation direction detector.
