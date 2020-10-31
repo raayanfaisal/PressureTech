@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-<img src="/images/unnamed.jpg" alt="aircompressir" width="300px" height="200px">
+<img src="/images/unnamed.jpg" alt="aircompressir" width="300px" height="400px">
     <div class="heading-04">
         <h2><b>Bauer PE-TE/PE-TB, 200-300l/min
 </b></h2>
