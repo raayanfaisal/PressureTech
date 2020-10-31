@@ -493,7 +493,7 @@
 
     <a href="/images/gear"><img class="img-fluid z-depth-1" src="/images/divegear.png" alt="video"
         ></a>
-        <h5>Oxygen Kits</h5>
+        <h5>Scuba Gear Packages</h5>
   </div>
   <!-- Grid column -->
 
