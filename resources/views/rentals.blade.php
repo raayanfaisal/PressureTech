@@ -3,10 +3,6 @@
 @section('content')
 <div class="container">
 
-
-
-
-</div>
 <!-- Grid row -->
 
 <!-- Grid row -->
@@ -406,6 +402,7 @@
 <!-- Grid row -->
 
 
+</div>
 </div>
 
 @endsection
