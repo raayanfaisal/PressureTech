@@ -4,7 +4,7 @@
 <div class="container">
     <div class="services-heading">
         <h2 class="text-center"><b>Servicing & maintenance of Breathing Air Compressors</b></h2>
-        <img src="/images/pic1.jpg" alt="maintaince work" widht="100%" height="200px">
+        <img src="/images/https://github.com/raayanfaisal/mandhoo-diving-portfolio/blob/master/public/images/abt-img.JPG?raw=true" alt="maintaince work" widht="100%" height="200px">
         <P class="mt-5">Our Technicians are trained to service all the products we sell. We can service your Coltri, 
         Bauer and L&W compressor with confidence and timely manner. We are just a phone call away from your next compressor routine maintenance, 
         troubleshooting or complete overhaul. </P>
