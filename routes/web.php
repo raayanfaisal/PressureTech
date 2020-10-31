@@ -85,6 +85,10 @@ Route::get('/gener', function () {
     return view('pete');
 });
 
+Route::get('/rentals', function () {
+    return view('rentals');
+});
+
 Auth::routes();
 
  Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
