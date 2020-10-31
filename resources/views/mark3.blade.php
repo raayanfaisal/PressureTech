@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-<img src="/images/mch-13-16-18-21-23-et-mark3-front01-min.jpg" alt="aircompressir" width="300px" height="400px">
+<img src="/images/mch-13-16-18-21-23-et-mark3-front01-min.jpg" alt="aircompressir" width="300px" height="auto">
     <div class="heading-04">
         <h2><b>Coltri MCH 13-16-21-23 Mark 3
 </b></h2>
