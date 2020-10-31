@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-<img src="/images/Coltri MCH 8-11-13-16 SMART.png" alt="aircompressir" width="300px" height="300px">
+<img src="/images/Coltri MCH 8-11-13-16 SMART.png" alt="aircompressir" width="300px" height="auto">
     <div class="heading-04">
         <h2><b>Coltri MCH 8-11-13-16 SMART
 Coltri Compact Evo</b></h2>
