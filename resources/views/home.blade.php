@@ -30,7 +30,7 @@
 </div>
 </section>
 <section>
-    <div class="container">
+    <div class="container-fluid">
     <div class="heading-01">
         <h2 class="text-center"><b><span class="question-01"></b><span></h2>    
     </div>
