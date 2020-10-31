@@ -3,7 +3,7 @@
 @section('content')
 <div class="container">
     <div class="services-heading">
-        <h2 class="text-center"><b>Servicing & maintenance of Breathing Air Compressors</b></h2>
+        <h4 class="text-center"><b>Servicing & maintenance of Breathing Air Compressors</b></h4>
         <div class="images text-center">
            <img src="/images/service.png" alt="service" width="50% height="auto">
         </div>
