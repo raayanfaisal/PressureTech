@@ -291,7 +291,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/Bauer"><img class="img-fluid z-depth-1" src="/images/csm_pe-te-100_f5b42f50d4.jpg" alt="video"
+    <a href="/Bauer"><img class="img-fluid z-depth-1" src="/images/compressor-bauer-posseidon-pe100-eletrico-500x500.jpg" alt="video"
        ></a>
 
   </div>
