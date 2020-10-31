@@ -15,6 +15,7 @@
     
     <div class="services-heading">
         <h4 class=""><b>Dive Equipment Servicing</b></h4>
+        <img src="/images/C07Edited.png" alt="service2" width="100%" height="auto">
         <P class="mt-5">Our in-house servicing team are ready and waiting to help with all our dive equipment servicing needs.  We service all major brand Regulators, BCDs, Dive Cylinders. 
 Equipment can be dropped off to our Service Center in Male’ City, or you can Send it to us using your preferred delivery method. If you want us to pickup your equipment, just give us a call or send us a message
  </P>
