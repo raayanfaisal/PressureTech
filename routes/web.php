@@ -65,6 +65,10 @@ Route::get('/Bauer', function () {
     return view('tepe');
 });
 
+Route::get('/oxygen', function () {
+    return view('oxygen');
+});
+
 Route::get('/gear', function () {
     return view('gear');
 });
