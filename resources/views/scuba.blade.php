@@ -6,7 +6,7 @@
     <div class="heading-04">
         <h4><b>Scuba Gear Packages
 </b></h4>
-        <p>We supply branded BCD, Regulator set and other Accessories with manufacturer warranty</p>
+        <p>Branded BCD, Regulator set and other Accessories </p>
         <img src="" alt="" >
     </div>
 </div>
