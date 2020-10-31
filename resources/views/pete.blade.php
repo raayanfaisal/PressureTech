@@ -6,11 +6,9 @@
     <div class="heading-04">
         <h4><b>PE-MVE, 250-300l/min
 </b></h4>
-        <p>The transportable compressor units with optimised equipment for use in vehicles and on ships
-Uncompromising on quality: With a robust compressor block and piston rings made from wear-resistant special plastic
-Durable and robust: Thanks to oil cooling in the final compressor stage. For low wear and long service life
-Ideal for use at sea: Intercoolers and aftercoolers made from rust-free stainless steel. For high corrosion resistance
-Reliable lubrication: Thanks to low-pressure oil pump with oil filter. For effective lubrication and long oil change intervals
+        <p>The PE-MVE from BAUER is the compact complete solution in a vertical format for all applications requiring medium delivery rates. Equipped with noise insulation housing as standard, the PE-MVE is ideal for use in environments where noise is a key concern and for customers who need reliable and durable service combined with low running costs.
+What's more, the high-pressure compressors are already equipped with an automatic condensate drain and easy-to-use BHW CONTROL, which has a fully automatic mode for filling storage bottles.
+
 </p>
         <img src="" alt="" >
     </div>
