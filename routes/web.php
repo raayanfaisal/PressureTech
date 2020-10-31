@@ -45,6 +45,10 @@ Route::get('/smart', function () {
     return view('smart');
 });
 
+Route::get('/scuba', function () {
+    return view('scuba');
+});
+
 Route::get('/aircompressor', function () {
     return view('aircomp');
 });
