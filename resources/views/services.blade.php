@@ -5,7 +5,7 @@
     <div class="services-heading">  
        <h4 class=""><b>Servicing & maintenance of Breathing Air Compressors</b></h4>
         <div class="images text-center">
-           <img src="/images/service.png" alt="service" width="70% height="auto">
+           <img src="/images/service.png" alt="service" width="100% height="auto">
         </div>
 
         <P class="mt-5">Our Technicians are trained to service all the products we sell. We can service your Coltri, 
