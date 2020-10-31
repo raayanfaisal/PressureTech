@@ -2,7 +2,7 @@
 
 @section('content')
 <section>
-<div class="container-fluid">
+<div class="container">
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -30,7 +30,7 @@
 </div>
 </section>
 <section>
-    <div class="container-fluid">
+    <div class="container">
     <div class="heading-01">
         <h2 class="text-center"><b><span class="question-01"></b><span></h2>    
     </div>
