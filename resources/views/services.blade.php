@@ -23,7 +23,7 @@ Equipment can be dropped off to our Service Center in Male’ City, or you can S
     
     <div class="services-heading">
         <h4 class=""><b>Cylinder Inspection to European Standards -BSEN1802 & 1968</b></h4>
-        <img src="/images/scuba.png alt="scuba" width="100%" height="auto">
+        <img src="/images/scuba.png" alt="scuba" width="100%" height="auto">
         <p>Visual Inspection & Hydro Testing of Diving cylinders ,Storage Cylinders ,Carbon Fiber Cylinders</p>
         <ul>
             <li>Luxfer UK Cylinders  & Luxfer USA cylinders</li>
