@@ -392,7 +392,8 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/cylinder"><img class="img-fluid z-depth-1" src="/images/cylinders.jpg" alt="video"
+    <a href="/cylinder"><img class="img-fluid z-depth-1" src="/images/Cylinder.png
+" alt="video"
         ></a>
 
   </div>
