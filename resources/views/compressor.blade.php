@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-        <img src="/images/COLTRI COMPRESSOR MCH 13 MCH 16 SUPER SILENT EVO.png" alt="compressor" width="200px" height="400px">
+        <img src="/images/COLTRI COMPRESSOR MCH 13 MCH 16 SUPER SILENT EVO.png" alt="compressor" width="200px" height="200px">
          <div class="heading-04">
          <h2><b>COLTRI COMPRESSOR MCH 13/ MCH 16 SUPER SILENT EVO</b></h2>
     </div>
