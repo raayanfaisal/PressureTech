@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-<img src="/images/xl-280420-175754-001-prime-line-ergo-tps-13-16-21-23-front01.jpg" alt="aircompressir" width="300px" height="auto">
+<img src="/images/https://github.com/raayanfaisal/mandhoo-diving-portfolio/blob/master/public/images/Oxygen%20Kits.jpg?raw=true" alt="aircompressir" width="300px" height="auto">
     <div class="heading-04">
         <h4><b>Oxygen Kits
 </b></h4>
