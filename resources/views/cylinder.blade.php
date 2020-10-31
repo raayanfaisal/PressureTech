@@ -2,9 +2,9 @@
 
 @section('content')
 <div class="container">
-<img src="/images/Diving cylinders.jpg" alt="aircompressir" width="300px" height="200px">
+<img src="/images/Diving cylinders.jpg" alt="aircompressir" width="300px" height="auto">
     <div class="heading-04">
-        <h2><b>Steel Diving Cylinder</b></h2>
+        <h4><b>Steel Diving Cylinder</b></h4>
 <p>We offer steel and aluminium cylinders  and Valves at a competitive price
 </p>
 
