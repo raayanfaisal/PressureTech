@@ -4,8 +4,8 @@
 <div class="container">
 <img src="/images/unnamed.jpg" alt="aircompressir" width="300px" height="auto">
     <div class="heading-04">
-        <h2><b>Bauer PE-TE/PE-TB, 200-300l/min
-</b></h2>
+        <h4><b>Bauer PE-TE/PE-TB, 200-300l/min
+</b></h4>
         <p>The transportable compressor units with optimised equipment for use in vehicles and on ships
 Uncompromising on quality: With a robust compressor block and piston rings made from wear-resistant special plastic
 Durable and robust: Thanks to oil cooling in the final compressor stage. For low wear and long service life
