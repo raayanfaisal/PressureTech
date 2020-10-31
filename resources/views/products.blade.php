@@ -346,7 +346,7 @@
 
     <a href="/gener"><img class="img-fluid z-depth-1" src="/images/compressr.png" alt="video"
        ></a>
-
+      <h5>PE-MVE, 250-300l/min</h5>
   </div>
   <!-- Grid column -->
 
@@ -395,7 +395,7 @@
     <a href="/cylinder"><img class="img-fluid z-depth-1" src="/images/Cylinder.png
 " alt="video"
         ></a>
-
+        <h5>Diving cylinders </h5>
   </div>
   <!-- Grid column -->
 
@@ -443,7 +443,7 @@
 
     <a href="/images/gear"><img class="img-fluid z-depth-1" src="/images/Oxygen Kits.jpg" alt="video"
         ></a>
-
+        <h5>Oxygen Kits</h5>
   </div>
   <!-- Grid column -->
 
