@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-<img src="/images/xl-270420-081150-mch-13-16-18-et-compact-evo-front01-lr.jpg" alt="aircompressir" width="300px" height="200px">
+<img src="/images/xl-270420-081150-mch-13-16-18-et-compact-evo-front01-lr.jpg" alt="aircompressir" width="300px" height="400px">
     <div class="heading-04">
         <h2><b>High pressure breathing air compressors
 Coltri Compact Evo</b></h2>
