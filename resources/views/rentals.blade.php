@@ -43,9 +43,9 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/compressor"><img class="img-fluid z-depth-1" src="/images/COLTRI COMPRESSOR MCH 13 MCH 16 SUPER SILENT EVO.png" alt="video"
-        ></a>
-        <h5>COLTRI COMPRESSOR MCH 13 MCH 16 SUPER SILENT EVO</h5>
+    <a href="/coltri"><img class="img-fluid z-depth-1" src="/images/xl-280420-175754-001-prime-line-ergo-tps-13-16-21-23-front01.jpg" alt="video"
+    ></a>
+     <h5>Coltri MCH 13-16-21-23 Mark 3</h5>
 
   </div>
   <!-- Grid column -->
@@ -92,10 +92,10 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/smart"><img class="img-fluid z-depth-1" src="/images/Coltri MCH 8-11-13-16 SMART.png" alt="video"
-        ></a>
-           <h5>COLTRI MCH 8-11-13-16 SMART</h5>
-    
+
+    <a href="/Bauer"><img class="img-fluid z-depth-1" src="/images/compressor-bauer-posseidon-pe100-eletrico-500x500.jpg" alt="video"
+       ></a>
+        <h5>Bauer PE100, 100l/min</h5>
   </div>
   <!-- Grid column -->
 
@@ -141,9 +141,9 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/aircompressor"><img class="img-fluid z-depth-1" src="/images/xl-270420-081150-mch-13-16-18-et-compact-evo-front01-lr.jpg" alt="video"
-        ></a>
-      <h5>COLTRI COMPACT EVO </h5>
+    <a href="/p200"><img class="img-fluid z-depth-1" src="/images/p200edited.png" alt="video"
+       ></a>
+      <h5>PE-MVE, 250-300l/min</h5>
   </div>
   <!-- Grid column -->
 
@@ -195,9 +195,10 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/coltri"><img class="img-fluid z-depth-1" src="/images/xl-280420-175754-001-prime-line-ergo-tps-13-16-21-23-front01.jpg" alt="video"
-    ></a>
-     <h5>Coltri MCH 13-16-21-23 Mark 3</h5>
+    <a href="/cylinder"><img class="img-fluid z-depth-1" src="/images/Cylinder.png
+" alt="video"
+        ></a>
+        <h5>Diving cylinders </h5>
   </div>
   <!-- Grid column -->
 
@@ -243,9 +244,9 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/mark3"><img class="img-fluid z-depth-1" src="/images/mch-13-16-18-21-23-et-mark3-front01-min.jpg" alt="video"
+    <a href="/oxygen"><img class="img-fluid z-depth-1" src="/images/Oxygen Kits.jpg" alt="video"
         ></a>
-        <h5>Coltri MCH 13-16-21-23 Mark 3</h5>
+        <h5>Oxygen Kits</h5>
   </div>
   <!-- Grid column -->
 
@@ -291,9 +292,9 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/Bauer"><img class="img-fluid z-depth-1" src="/images/compressor-bauer-posseidon-pe100-eletrico-500x500.jpg" alt="video"
-       ></a>
-        <h5>Bauer PE100, 100l/min</h5>
+    <a href="/scuba"><img class="img-fluid z-depth-1" src="/images/divegear.png" alt="video"
+        ></a>
+        <h5>Scuba Gear Packages</h5>
   </div>
   <!-- Grid column -->
 
