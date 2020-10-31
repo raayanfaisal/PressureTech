@@ -2,9 +2,9 @@
 
 @section('content')
 <div class="container">
-        <img src="/images/COLTRI COMPRESSOR MCH 13 MCH 16 SUPER SILENT EVO.png" alt="compressor" width="200px" height="200px">
+        <img src="/images/COLTRI COMPRESSOR MCH 13 MCH 16 SUPER SILENT EVO.png" alt="compressor" width="200px" height="auto">
          <div class="heading-04">
-         <h2><b>COLTRI COMPRESSOR MCH 13/ MCH 16 SUPER SILENT EVO</b></h2>
+         <h4><b>COLTRI COMPRESSOR MCH 13/ MCH 16 SUPER SILENT EVO</b></h4>
     </div>
     <p>The Super Silent Evo series stands out for its high degree of silence. 
         This series was developed by Coltri to meet certain requirements, 
