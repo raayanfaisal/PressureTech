@@ -22,7 +22,7 @@ Route::get('/p200', function () {
 });
 
 Route::get('/rent', function () {
-    return view('rental');
+    return view('rentals');
 });
 
 Route::get('/products', function () {
