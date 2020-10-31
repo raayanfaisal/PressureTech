@@ -491,7 +491,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/images/gear"><img class="img-fluid z-depth-1" src="/images/Oxygen Kits.jpg" alt="video"
+    <a href="/images/gear"><img class="img-fluid z-depth-1" src="/images/divegear.png" alt="video"
         ></a>
         <h5>Oxygen Kits</h5>
   </div>
