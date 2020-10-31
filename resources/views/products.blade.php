@@ -487,7 +487,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a href=""><img class="img-fluid z-depth-1" src="/images/Oxygen Kits.jpg" alt="video"
+    <a href="/oxygen"><img class="img-fluid z-depth-1" src="/images/Oxygen Kits.jpg" alt="video"
         ></a>
         <h5>Oxygen Kits</h5>
   </div>
