@@ -2,12 +2,12 @@
 
 @section('content')
 <div class="container">
-    <div class="services-heading">
-
+    <div class="services-heading">  
+       <h4 class=""><b>Servicing & maintenance of Breathing Air Compressors</b></h4>
         <div class="images text-center">
            <img src="/images/service.png" alt="service" width="50% height="auto">
         </div>
-        <h4 class=""><b>Servicing & maintenance of Breathing Air Compressors</b></h4>
+
         <P class="mt-5">Our Technicians are trained to service all the products we sell. We can service your Coltri, 
         Bauer and L&W compressor with confidence and timely manner. We are just a phone call away from your next compressor routine maintenance, 
         troubleshooting or complete overhaul. </P>
