@@ -2,9 +2,9 @@
 
 @section('content')
 <div class="container">
-<img src="/images/http://104.248.54.59/images/compressr.png" alt="aircompressir" width="500px" height="auto">
+<img src="/images/compressr.png" alt="aircompressir" width="500px" height="auto">
     <div class="heading-04">
-        <h4><b>Bauer PE-TE/PE-TB, 200-300l/min
+        <h4><b>PE-MVE, 250-300l/min
 </b></h4>
         <p>The transportable compressor units with optimised equipment for use in vehicles and on ships
 Uncompromising on quality: With a robust compressor block and piston rings made from wear-resistant special plastic
