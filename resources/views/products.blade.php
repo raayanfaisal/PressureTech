@@ -390,7 +390,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/gener"><img class="img-fluid z-depth-1" src="/images/p200edited.png" alt="video"
+    <a href="/p200"><img class="img-fluid z-depth-1" src="/images/p200edited.png" alt="video"
        ></a>
       <h5>PE-MVE, 250-300l/min</h5>
   </div>
