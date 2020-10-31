@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>PRESSURETECH MALDIVES</title>
+    <title>PRESSURE TECH MALDIVES</title>
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -347,6 +347,7 @@ ul#menu1 li {
                         <li class="m-3"><a href="/">Home</li>
                         <li class="m-3"><a href="/services">Services</li>
                         <li class="m-3"><a href="/products">Products</li>
+                        <li class="m-3"><a href="/rentals">Rentals</li>
                         <li class="m-3"><a href="#ctn">contact</a></li>
                     </ul>
                 </div>
