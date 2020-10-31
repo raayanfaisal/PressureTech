@@ -196,7 +196,7 @@
     <!--Modal: Name-->
 
     <a href="/coltri"><img class="img-fluid z-depth-1" src="/images/xl-280420-175754-001-prime-line-ergo-tps-13-16-21-23-front01.jpg" alt="video"
-        data-toggle="modal" data-target="#modal2"></a>
+    ></a>
      <h5>Coltri MCH 13-16-21-23 Mark 3</h5>
   </div>
   <!-- Grid column -->
