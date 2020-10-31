@@ -4,8 +4,8 @@
 <div class="container">
 <img src="/images/mch-13-16-18-21-23-et-mark3-front01-min.jpg" alt="aircompressir" width="300px" height="auto">
     <div class="heading-04">
-        <h2><b>Coltri MCH 13-16-21-23 Mark 3
-</b></h2>
+        <h4><b>Coltri MCH 13-16-21-23 Mark 3
+</b></h4>
         <p>Frame: Mark 3 TPS - Line: Prime
 The MARK 3 series is a series of uncompromised breathable air compressors for intensive use in warm, 
 poorly ventilated or tropical environments. Designed with an improved cooling system and a filtering 
