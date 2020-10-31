@@ -344,7 +344,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/gener"><img class="img-fluid z-depth-1" src="/images/cylinders.jpg" alt="video"
+    <a href="/gener"><img class="img-fluid z-depth-1" src="/images/compressr.jpg" alt="video"
        ></a>
 
   </div>
@@ -392,7 +392,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/cylinder"><img class="img-fluid z-depth-1" src="/images/Diving cylinders.jpg" alt="video"
+    <a href="/cylinder"><img class="img-fluid z-depth-1" src="/images/cylinders.jpg" alt="video"
         ></a>
 
   </div>
