@@ -344,7 +344,7 @@
     </div>
     <!--Modal: Name-->
 
-    <a href="/gener"><img class="img-fluid z-depth-1" src="/images/compressr.jpg" alt="video"
+    <a href="/gener"><img class="img-fluid z-depth-1" src="/images/compressr.png" alt="video"
        ></a>
 
   </div>
