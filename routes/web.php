@@ -21,6 +21,10 @@ Route::get('/p200', function () {
     return view('p200');
 });
 
+Route::get('/rent', function () {
+    return view('rental');
+});
+
 Route::get('/products', function () {
     return view('products');
 });
