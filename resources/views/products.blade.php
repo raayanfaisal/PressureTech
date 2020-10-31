@@ -293,7 +293,7 @@
 
     <a href="/Bauer"><img class="img-fluid z-depth-1" src="/images/compressor-bauer-posseidon-pe100-eletrico-500x500.jpg" alt="video"
        ></a>
-
+        <h5>Bauer PE100, 100l/min</h5>
   </div>
   <!-- Grid column -->
 
