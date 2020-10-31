@@ -45,7 +45,7 @@
 
     <a href="/compressor"><img class="img-fluid z-depth-1" src="/images/COLTRI COMPRESSOR MCH 13 MCH 16 SUPER SILENT EVO.png" alt="video"
         ></a>
- 
+        <h5>COLTRI COMPRESSOR MCH 13 MCH 16 SUPER SILENT EVO</h5>
 
   </div>
   <!-- Grid column -->
@@ -94,8 +94,8 @@
 
     <a href="/smart"><img class="img-fluid z-depth-1" src="/images/Coltri MCH 8-11-13-16 SMART.png" alt="video"
         ></a>
-   
-
+           <h5>COLTRI MCH 8-11-13-16 SMART</h5>
+    
   </div>
   <!-- Grid column -->
 
@@ -143,7 +143,7 @@
 
     <a href="/aircompressor"><img class="img-fluid z-depth-1" src="/images/xl-270420-081150-mch-13-16-18-et-compact-evo-front01-lr.jpg" alt="video"
         ></a>
-
+      <h5>COLTRI COMPACT EVO </h5>
   </div>
   <!-- Grid column -->
 
@@ -197,7 +197,7 @@
 
     <a href="/coltri"><img class="img-fluid z-depth-1" src="/images/xl-280420-175754-001-prime-line-ergo-tps-13-16-21-23-front01.jpg" alt="video"
         data-toggle="modal" data-target="#modal2"></a>
-
+     <h5>Coltri MCH 13-16-21-23 Mark 3</h5>
   </div>
   <!-- Grid column -->
 
@@ -245,7 +245,7 @@
 
     <a href="/mark3"><img class="img-fluid z-depth-1" src="/images/mch-13-16-18-21-23-et-mark3-front01-min.jpg" alt="video"
         ></a>
-    
+        <h5>Coltri MCH 13-16-21-23 Mark 3</h5>
   </div>
   <!-- Grid column -->
 
