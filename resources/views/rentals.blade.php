@@ -254,3 +254,4 @@
 
 </div>
 <!-- Grid row -->
+@endsection
